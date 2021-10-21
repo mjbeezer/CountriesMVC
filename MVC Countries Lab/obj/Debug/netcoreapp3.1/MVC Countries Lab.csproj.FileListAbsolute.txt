@@ -1,0 +1,14 @@
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.exe
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.deps.json
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.runtimeconfig.json
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.runtimeconfig.dev.json
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.dll
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\bin\Debug\netcoreapp3.1\MVC Countries Lab.pdb
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.csproj.AssemblyReference.cache
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.AssemblyInfoInputs.cache
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.AssemblyInfo.cs
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.csproj.CoreCompileInputs.cache
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.dll
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.pdb
+C:\Users\TheTower\source\repos\MVC Countries Lab\MVC Countries Lab\obj\Debug\netcoreapp3.1\MVC Countries Lab.genruntimeconfig.cache
